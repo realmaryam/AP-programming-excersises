@@ -1,17 +1,3 @@
-<center>
-<h1>
-In The Name Of ALLAH
-</h1>
-<h2>
-Advanced Programming - Homework 4
-</h2>
-<h2>
-Dr.Amir Jahanshahi
-</h2>
-<h3>
-Deadline: Friday, 24 Ordibehesht - 23:00
-</center>
-
 
 # Introduction
 In this homework. You’ll work with some geometric shapes in a polymorphic way!! You have to implement some abstract classes and drive some other classes from them. Let’s see! 😊
