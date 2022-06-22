@@ -1,1 +1,1 @@
-# AP-programming-excersises
+# AP-programming-exercises
